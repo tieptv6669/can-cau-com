@@ -20,9 +20,9 @@ Nếu mục tiêu là có **kỹ năng sống tốt**, bạn không cần trở 
 
 Công thức:
 
-[
+$$
 P = U \times I
-]
+$$
 
 Ví dụ:
 
@@ -34,9 +34,9 @@ Ví dụ:
 
 Công thức:
 
-[
+$$
 \text{kWh} = \frac{\text{W}}{1000} \times \text{giờ sử dụng}
-]
+$$
 
 Ví dụ:
 
